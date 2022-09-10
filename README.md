@@ -1,6 +1,10 @@
 # HoYoStudio
 Check out the [original AssetStudio project](https://github.com/Perfare/AssetStudio) for more information.
 _____________________________________________________________________________________________________________________________
+
+This is probably the last releast on `HoYoStudio` before the DMCA takedown notice is applied by `Hoyoverse` on Github, Thank you so much to everyone who has helped in the making of this project as well as those who have provided feedback, until next time.
+https://github.com/Razmoth/HoYoStudio/releases/tag/v0.17.00
+_____________________________________________________________________________________________________________________________
 New Discord Server: 
 
 Join [here](https://discord.gg/JAeB5jGdcn) for more discussions, questions, suggestions and feedback.
@@ -68,3 +72,4 @@ Special Thank to:
 - Khang06: [genshinblkstuff](https://github.com/khang06/genshinblkstuff) for blk/mhy0 extraction.
 - Radioegor146: [gi-asset-indexes](https://github.com/radioegor146/gi-asset-indexes) for recovered/updated asset_index's.
 - Ds5678: [AssetRipper](https://github.com/AssetRipper/AssetRipper)[[discord](https://discord.gg/XqXa53W2Yh) at `#mihoyo` channel] for information about Asset Formats & Parsing.
+- mafaca: [uTinyRipper](https://github.com/mafaca/UtinyRipper) for `YAML` and `AnimationClipConverter`. 
