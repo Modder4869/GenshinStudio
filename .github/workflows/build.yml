@@ -10,6 +10,7 @@ on:
       - '**/build.yml'
       - '**/.gitignore'
       - '**/.gitattributes'
+    workflow_dispatch:
 jobs:
   build:
     runs-on: windows-latest
